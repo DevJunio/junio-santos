@@ -5,6 +5,6 @@ After [Microsoft adquiring GitHub](https://news.microsoft.com/announcement/micro
 
 This profile instead will only contains **contributions to professional and other open source projects**  
 
-### to access my personal projects, see my gitlab instead:
+### To access my personal projects, see my gitlab instead:
 - [Click here](https://gitlab.com/junio-santos) or copy-paste this link to your browser:
 - https://gitlab.com/junio-santos
